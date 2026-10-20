@@ -1,0 +1,24 @@
+{
+  "schema": "1.0",
+  "type": "whmcs-registrars",
+  "name": "hostopy",
+  "license": "proprietary",
+  "category": "domains",
+  "description": {
+    "name": "HostOpy",
+    "tagline": "HostOpy Domain Registrar Module for WHMCS",
+    "long": "Automate domain registration, transfers, renewals, nameserver updates, and contact management with HostOpy."
+  },
+  "logo": {
+    "filename": "logo.png"
+  },
+  "support": {
+    "homepage": "https://hostopy.com/"
+  },
+  "authors": [
+    {
+      "name": "HostOpy",
+      "homepage": "https://hostopy.com/"
+    }
+  ]
+}
